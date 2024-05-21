@@ -1,6 +1,5 @@
 # Hi there, I'm Prince Kumar! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 I am a passionate MERN stack developer with a diverse skill set in various programming languages and technologies. Welcome to my GitHub profile!
 
@@ -111,16 +110,16 @@ I am a passionate MERN stack developer with a diverse skill set in various progr
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![codearea-prince GitHub Stats](https://github-readme-stats.vercel.app/api?username=codearea-prince&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=codearea-prince&theme=onedark)
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:princekumar87090@gmail.com)
-- LinkedIn: [Your LinkedIn Profile]()
+- Email: [email@example.com](mailto:princekumar87090@gmail.com)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/prince-kumar-ba1526202)
 
 
 
@@ -134,5 +133,5 @@ Feel free to ask me about anything related to web development, software engineer
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/codearea-prince
+⭐️ From [GitHub Username](https://github.com/codearea-prince
 )
