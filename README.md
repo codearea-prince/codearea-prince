@@ -119,7 +119,7 @@ I am a passionate MERN stack developer with a diverse skill set in various progr
 ## 📫 How to reach me
 
 - Email: [email@example.com](mailto:princekumar87090@gmail.com)
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/prince-kumar-ba1526202)
+- LinkedIn: [your LinkedIn Profile](www.linkedin.com/in/prince-kumar-ba1526202)
 
 
 
